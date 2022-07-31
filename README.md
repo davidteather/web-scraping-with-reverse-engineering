@@ -1,9 +1,10 @@
-<div style="width:100%;text-align: center; background: yellow;">
-    This repository has been moved to <a href="https://github.com/davidteather/everything-web-scraping">everything-web-scraping</a>
+<div align="center" background="yellow" style="width:100%;text-align: center; background-color: yellow;">
+   🚩🟨🚩 This repository has been moved to <a href="https://github.com/davidteather/everything-web-scraping">everything-web-scraping</a> 🚩🟨🚩
     <br>
-    <small>If you found an outdated link to this that I control, file an issue :)</small>
+    <small>If you found an outdated link to this that I can update, file an issue :)</small>
 </div>
-# Web Scraping With Reverse Engineer
+
+# Web Scraping With Reverse Engineering
 
 
 Learn everything web scraping by [David Teather](https://twitter.com/david_teather) find the video series on [YouTube](https://youtube.com/playlist?list=PLmRtxHvzkEE8Ofiy4hnnXSoxw7gs4HOHt).
