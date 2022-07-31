@@ -1,7 +1,7 @@
-<div style="width:100%;text-align: center; background: yellow;">
-    This repository has been moved to <a href="https://github.com/davidteather/everything-web-scraping/tree/main/000-introduction">everything-web-scraping</a>
+<div align="center" background="yellow" style="width:100%;text-align: center; background-color: yellow;">
+   🚩🟨🚩 This repository has been moved to <a href=""https://github.com/davidteather/everything-web-scraping/tree/main/000-introduction">everything-web-scraping</a> 🚩🟨🚩
     <br>
-    <small>If you found an outdated link to this that I control, file an issue :)</small>
+    <small>If you found an outdated link to this that I can update, file an issue :)</small>
 </div>
 
 # Introduction
